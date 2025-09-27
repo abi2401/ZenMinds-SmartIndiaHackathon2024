@@ -72,4 +72,4 @@ This leads to higher operational costs, water losses, and delays in addressing c
 -  Kaviya N K
 -  Rongala Divya
 -  Sudhirkumar S
--  Yashwenth S# ZenMinds-SmartIndiaHackathon2024
+-  Yashwenth S
